@@ -1,0 +1,18 @@
+/* Cambiar tamaño del logo en la diapositiva de título */
+.gdbar img {
+  width: 500px !important;
+  height: auto !important;
+}
+
+.gdbar {
+  width: 600px !important;
+  height: auto !important;
+}
+
+/* Cambiar tamaño del logo en el pie de página de las demás diapositivas */
+slides > slide:not(.nobackground):before {
+  width: 200px !important;
+  height: 50px !important;
+  background-size: 200px 50px !important;
+}
+ 
