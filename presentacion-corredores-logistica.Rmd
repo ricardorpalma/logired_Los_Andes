@@ -371,9 +371,21 @@ histórica que incrementa significativamente sus costos logísticos:
 
 ##  Corredores Logísticos para América del Sur
 
+        DOI: 10.5281/zenodo.22113190
+        
+        <https://rpubs.com/ricardorpama/1454129>
+
 ### Gracias:
 
       **Preguntas**
 
-          Prof. Ricardo R. Palma <ricardo.palma@ingenieria.uncuyo.edu.ar>
+          Prof. **Ricardo R. Palma** <ricardo.palma@ingenieria.uncuyo.edu.ar>
           
+          * PALMA-CONTI, R.-R. (2026, August 26). 
+          Corredores Logísticos de América del Sur. Zenodo. 
+          * Congreso Internacional Logística Portuaria 5.0, Valparaiso - 
+          * San Antonio - 
+          * Los Andes. 
+          https://doi.org/10.5281/zenodo.22113190
+Style
+
