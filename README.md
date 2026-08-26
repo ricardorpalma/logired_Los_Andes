@@ -6,7 +6,7 @@
 
 **Página con plantilla de la PUCV** 
 
-<https://ricardorpalma.github.io/logired_Los_Andes/#29>
+<https://ricardorpalma.github.io/logired_Los_Andes>
 
 **Registro del DOI exigido por la Bibioteca de la UNCuyo**
 
